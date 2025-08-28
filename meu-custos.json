@@ -1,0 +1,56 @@
+{
+  "custos_gerais": {
+    "custo_da_palha_kg": 2.50,
+    "custo_do_granulado_kg": 0.50,
+    "custo_analise_laboratorio": 100.00,
+    "custo_saco_embalagem": 2.80,
+    "custo_adesivo_nome": 0.08,
+    "custo_adesivo_info": 0.09
+  },
+  "sementes": {
+    "ARUANA": {
+      "valor_do_ponto": 0.50,
+      "Incrustada": 180.00
+    },
+    "MARANDU": {
+      "valor_do_ponto": 0.25,
+      "Incrustada": 84.03
+    },
+    "DECUMBENS": {
+      "valor_do_ponto": 0.33,
+      "Incrustada": 116.18
+    },
+    "MASSAI": {
+      "valor_do_ponto": 0.33,
+      "Incrustada": 118.83
+    },
+    "MG-4": {
+      "valor_do_ponto": 0.28,
+      "Incrustada": 109.58
+    },
+    "MG-5": {
+      "valor_do_ponto": 0.23,
+      "Incrustada": 74.14
+    },
+    "MOMBAÇA": {
+      "valor_do_ponto": 0.22,
+      "Incrustada": 57.43
+    },
+    "PIATÃ": {
+      "valor_do_ponto": 0.24,
+      "Incrustada": 85.24
+    },
+    "RUZIZIENSIS": {
+      "valor_do_ponto": 0.11,
+      "Incrustada": 57.43
+    },
+    "HUMIDICULA": {
+      "valor_do_ponto": 2.50,
+      "Incrustada": 302.55
+    },
+    "LLANERO": {
+      "valor_do_ponto": 1.20,
+      "Incrustada": 0.00
+    }
+  }
+}
