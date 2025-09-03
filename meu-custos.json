@@ -10,47 +10,48 @@
   "sementes": {
     "ARUANA": {
       "valor_do_ponto": 0.50,
-      "Incrustada": 180.00
+      "Incrustada": 131.00
     },
     "MARANDU": {
       "valor_do_ponto": 0.25,
-      "Incrustada": 84.03
+      "Incrustada": 83.75
     },
     "DECUMBENS": {
       "valor_do_ponto": 0.33,
-      "Incrustada": 116.18
+      "Incrustada": 103.54
     },
     "MASSAI": {
       "valor_do_ponto": 0.33,
-      "Incrustada": 118.83
+      "Incrustada": 106.06
     },
     "MG-4": {
       "valor_do_ponto": 0.28,
-      "Incrustada": 109.58
+      "Incrustada": 109.30
     },
     "MG-5": {
       "valor_do_ponto": 0.23,
-      "Incrustada": 74.14
+      "Incrustada": 67.88
     },
     "MOMBAÇA": {
       "valor_do_ponto": 0.22,
-      "Incrustada": 57.43
+      "Incrustada": 100.36
     },
     "PIATÃ": {
       "valor_do_ponto": 0.24,
-      "Incrustada": 85.24
+      "Incrustada": 77.54
     },
     "RUZIZIENSIS": {
       "valor_do_ponto": 0.11,
-      "Incrustada": 57.43
+      "Incrustada": 42.15
     },
     "HUMIDICULA": {
       "valor_do_ponto": 2.50,
-      "Incrustada": 302.55
+      "Incrustada": 325.63
     },
     "LLANERO": {
       "valor_do_ponto": 1.20,
       "Incrustada": 0.00
     }
   }
+
 }
